@@ -1,0 +1,33 @@
+_repo: Sevenoaks--A-Story-of-Today_15214
+_version: 0.1.0
+alternative_title: 'Sevenoaks: A Story of To-day'
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Holland, J. G. (Josiah Gilbert)
+    aliases:
+    - Titcomb, Timothy
+    - Holland, Josiah Gilbert
+    birthdate: 1819
+    deathdate: 1881
+    gutenberg_agent_id: '2046'
+    url: http://www.gutenberg.org/2009/agents/2046
+    wikipedia: http://en.wikipedia.org/wiki/Josiah_Gilbert_Holland
+description: ''
+gutenberg_issued: '2005-03-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '15214'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Social problems -- Fiction'
+- !lcc 'PS'
+- !lcsh 'Political fiction'
+- !lcsh 'Didactic fiction'
+title: 'Sevenoaks: A Story of Today'
+url: http://www.gutenberg.org/ebooks/15214
